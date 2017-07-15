@@ -1,0 +1,6 @@
+﻿  Chapter4Problems.cpp
+c:\users\taylor tran\documents\visual studio 2017\projects\chapter 4 - making decisions (c++)\chapter-4-making-decisions-cpp-master\chapter 4 - making decisions (c++)\chapter4problems.cpp(303): warning C4101: 'days': unreferenced local variable
+c:\users\taylor tran\documents\visual studio 2017\projects\chapter 4 - making decisions (c++)\chapter-4-making-decisions-cpp-master\chapter 4 - making decisions (c++)\chapter4problems.cpp(371): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\taylor tran\documents\visual studio 2017\projects\chapter 4 - making decisions (c++)\chapter-4-making-decisions-cpp-master\chapter 4 - making decisions (c++)\chapter4problems.cpp(444): warning C4101: 'points': unreferenced local variable
+  Chapter4Problems.vcxproj -> C:\Users\Taylor Tran\Documents\Visual Studio 2017\Projects\Chapter 4 - Making Decisions (C++)\Chapter-4-Making-Decisions-cpp-master\Chapter 4 - Making Decisions (C++)\x64\Debug\Chapter 4 - Making Decisions (C++).exe
+  Chapter4Problems.vcxproj -> C:\Users\Taylor Tran\Documents\Visual Studio 2017\Projects\Chapter 4 - Making Decisions (C++)\Chapter-4-Making-Decisions-cpp-master\Chapter 4 - Making Decisions (C++)\x64\Debug\Chapter 4 - Making Decisions (C++).pdb (Partial PDB)
